@@ -1,2 +1,2 @@
 # StupidHTTPServerPy
-```pointless http server written just for learning purposes```
+`pointless http server written just for learning purposes`
